@@ -3,4 +3,4 @@ The MATLAB functions were used in the connectome-based predictive modeling (CPM)
 
 If you use the scripts and CPM models in this paper, please cite:
 
-Mengxia Gao, Clive H.Y. Wong, Huiyuan Huang, Robin Shao, Ruiwang Huang, Chetwyn C.H. Chan, Tatia M.C. Lee. Connectome-based models can predict processing speed in older adults. (2020) NeuroImage
+Gao, M., Wong, C. H., Huang, H., Shao, R., Huang, R., Chan, C. C., & Lee, T. M. (2020). Connectome-based models can predict processing speed in older adults. NeuroImage, 223, 117290.
